@@ -1,4 +1,9 @@
-# GitRep
+# Hello this is Vineeth!!
 
-Hello this is Vineeth!!
-[Clike Here to View!!](https://polkam-vineeth.github.io/GitRep/Marvel.html)
+click here for
+[MCU !!](https://polkam-vineeth.github.io/GitRep/Marvel.html)
+
+
+click here for
+[DC Universe !!](https://polkam-vineeth.github.io/GitRep/sub1/pvk.html)
+
